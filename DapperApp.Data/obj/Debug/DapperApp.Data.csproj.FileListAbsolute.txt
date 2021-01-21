@@ -1,0 +1,11 @@
+C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Data\bin\Debug\DapperApp.Data.dll
+C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Data\bin\Debug\DapperApp.Data.pdb
+C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Data\bin\Debug\Dapper.dll
+C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Data\bin\Debug\DapperApp.Domain.dll
+C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Data\bin\Debug\DapperApp.Domain.pdb
+C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Data\bin\Debug\Dapper.xml
+C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Data\obj\Debug\DapperApp.Data.csprojAssemblyReference.cache
+C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Data\obj\Debug\DapperApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Data\obj\Debug\DapperApp.Data.csproj.CopyComplete
+C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Data\obj\Debug\DapperApp.Data.dll
+C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Data\obj\Debug\DapperApp.Data.pdb
