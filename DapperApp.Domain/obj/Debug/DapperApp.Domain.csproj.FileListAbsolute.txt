@@ -1,6 +1,0 @@
-C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Domain\bin\Debug\DapperApp.Domain.dll
-C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Domain\bin\Debug\DapperApp.Domain.pdb
-C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Domain\obj\Debug\DapperApp.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Domain\obj\Debug\DapperApp.Domain.dll
-C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Domain\obj\Debug\DapperApp.Domain.pdb
-C:\Users\Rafael\Documents\Visual Studio 2019\Projects\DapperApp\DapperApp.Domain\obj\Debug\DapperApp.Domain.csprojAssemblyReference.cache
